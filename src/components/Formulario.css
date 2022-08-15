@@ -1,0 +1,35 @@
+.bgCard{
+    background-color: rgb(227,242,253);
+}
+
+
+
+.bgBlanco{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+}
+
+.bgRojo{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+}
+
+.bgAzul{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+}
+
+.bgAmarillo{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+}
+
+.bgNegro{
+    background-color: black;
+    width: 150px;
+    height: 150px;
+}
