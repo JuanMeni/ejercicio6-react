@@ -23,7 +23,7 @@ const Formulario = () => {
       <div className="container mt-3 shadow p-3 mb-5 bg-body rounded">
         <h1>Administrar colores</h1>
         <div className="container text-center d-flex bgCard">
-          <div className="my-3" style={{backgroundColor:"red", width:"150px", height:"150px"}}></div>
+          <div className="my-3" style={{backgroundColor: colores, width:"150px", height:"150px"}}></div>
           <Form onSubmit={handleSubmit}>
             <Form.Group className="d-flex my-3 mt-5">
               <Form.Control
