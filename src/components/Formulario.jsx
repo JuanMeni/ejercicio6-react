@@ -29,7 +29,7 @@ const Formulario = () => {
               <Form.Control
                 type="text"
                 className=" mx-3"
-                placeholder="Ingrese un color, ej. Rojo"
+                placeholder="Ingrese un color, ej. Red"
                 onChange={(e) => {
                   setColores(e.target.value.trimStart());
                 }}
